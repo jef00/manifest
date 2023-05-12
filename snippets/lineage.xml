@@ -7,6 +7,6 @@
            revision="refs/heads/lineage-20.0" />
 
 
-  <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" remote="aosp" revision="refs/tags/android-13.0.0_r0.65" />
+  <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" remote="aosp" revision="refs/tags/android-13.0.0_r0.75" />
   <project path="prebuilts/tools-lineage" name="android_prebuilts_tools-lineage" remote="lineage" clone-depth="1" />
 </manifest>
